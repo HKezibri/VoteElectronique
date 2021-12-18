@@ -19,7 +19,7 @@ Ecrire un ensemble de codes Python qui gère une élection par vote électroniqu
 - CANDIDATS.txt --> La liste électorale (password   code   nom   prénom) 
 - ELECTEURS.txt --> La liste des candidats (codeC   prénom   nom) : cette liste est déjà fixé au préalable 
 - RESULTAT.txt --> Le résultat des votes. (code candidat : nombre de votes)
-- PREMIER_VOTE.txt --> La liste des personne qui ont voté (code)
+- PREMIER_VOTE.txt --> La liste des personnes qui ont voté (code)
 ``` 
 ## NB
 ```
