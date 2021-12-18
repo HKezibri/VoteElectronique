@@ -1,5 +1,5 @@
 # Mini-Projet: Election par vote électronique 
-25 Mars 2020 - 31 Mars 2020
+25 Mars 2020 - 15 Avril 2020
 
 ## Sujet
 Ecrire un ensemble de codes Python qui gère une élection par vote électronique. 
